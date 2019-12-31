@@ -55,3 +55,11 @@ congressional session.
 | :heavy_multiplication_x: | Senate Committee on Indian Affairs | Acts on all matters of Native American, Hawaiian, and Alaskan affairs. | Senate | https://www.indian.senate.gov/ |
 | ![Senate Committee on Small Business and Entrepreneurship](logos/SSSB.png?raw=true "Senate Committee on Small Business and Entrepreneurship") | Senate Committee on Small Business and Entrepreneurship | Acts on matters of the Small Business Administration and small business | Senate | https://www.sbc.senate.gov/public/ |
 | :heavy_multiplication_x: | Senate Caucus on International Narcotics Control | Formed to monitor drug abuse and trafficking internationally | Senate | https://www.drugcaucus.senate.gov/ |
+
+# License
+
+This project is public domain: please do what you want, keeping in mind copyright and licenses of the committees themselves first.
+
+Before using any content it may be prudent to ask a committee for permission. I'm not a lawyer and I encourage you to find one if applicable, as this isn't legal advice :thumbsup:
+
+Happy coding :smirk:
